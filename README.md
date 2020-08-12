@@ -2,7 +2,7 @@
 
 1. Clone this repository to your computer.
 2. Create a branch and name it joke-"**your name here**".
-3. Add a jokes.md with a your favorite joke.
+3. Add a jokes.md with your favorite joke.
 
 - BONUS: Use some Github flavored markdown - i.e. Github emojies.
 - BONUS: Add a funny image :hankey:.
